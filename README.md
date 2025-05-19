@@ -32,7 +32,7 @@ chmod +x server-stats.sh
 
 # 🖥️ Server Performance Stats
 
-**Project URL:** [https://github.com/Papachengo69/server-performance-stats](https://github.com/Papachengo69/server-performance-stats)
+**Project URL:** https://github.com/Papachengo69/server-performance-stats.git
 
 This is a beginner-friendly DevOps project that provides a Bash script to monitor and report key server performance metrics. It can be run on any Linux system with basic shell tools installed.
 
