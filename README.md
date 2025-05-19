@@ -1,6 +1,7 @@
 # 🖥️ Server Performance Stats
 
-**Project URL:** [https://github.com/Papachengo69/server-performance-stats](https://github.com/Papachengo69/server-performance-stats)
+**GitHub Repository:** [https://github.com/Papachengo69/server-performance-stats](https://github.com/Papachengo69/server-performance-stats)  
+**Project Page:** [https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
 
 This is a beginner-friendly DevOps project that provides a Bash script to monitor and report key server performance metrics. It can be run on any Linux system with basic shell tools installed.
 
