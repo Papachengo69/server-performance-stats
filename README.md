@@ -1,8 +1,8 @@
-# í¶¥ï¸ Server Performance Stats
+# ï¿½ï¿½ï¿½ï¸ Server Performance Stats
 
 This is a beginner-friendly DevOps project that provides a Bash script to monitor and report key server performance metrics. It can be run on any Linux system with basic shell tools installed.
 
-## í³Š What It Does
+## ï¿½ï¿½ï¿½ What It Does
 
 The script `server-stats.sh` reports:
 
@@ -12,7 +12,7 @@ The script `server-stats.sh` reports:
 - Top 5 processes by CPU usage
 - Top 5 processes by memory usage
 
-### íº€ Stretch Features
+### ï¿½ï¿½ï¿½ Stretch Features
 
 - OS version
 - System uptime
@@ -22,10 +22,18 @@ The script `server-stats.sh` reports:
 
 ---
 
-## í´§ How to Use
+## ï¿½ï¿½ï¿½ How to Use
 
-### í¶¥ï¸ Run the Script
+### ï¿½ï¿½ï¿½ï¸ Run the Script
 
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
+
+# ğŸ–¥ï¸ Server Performance Stats
+
+**Project URL:** [https://github.com/Papachengo69/server-performance-stats](https://github.com/Papachengo69/server-performance-stats)
+
+This is a beginner-friendly DevOps project that provides a Bash script to monitor and report key server performance metrics. It can be run on any Linux system with basic shell tools installed.
+
+...
